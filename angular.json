@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "routes-with-posts"
+  "defaultProject": "routes-with-posts",
+  "cli": {
+    "analytics": false
+  }
 }
